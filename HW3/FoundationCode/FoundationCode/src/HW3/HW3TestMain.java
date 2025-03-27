@@ -1,3 +1,5 @@
+package HW3;
+
 /**
  * HW3TestMain.java
  * 
@@ -5,6 +7,7 @@
  * It demonstrates how to use manual test mainlines for checking logic and GUI interaction.
  */
 public class HW3TestMain {
+
     public static void main(String[] args) {
         System.out.println("=================== HW3 Automated Tests ===================");
 
